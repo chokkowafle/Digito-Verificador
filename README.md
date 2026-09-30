@@ -1,0 +1,1 @@
+Aplicación en Java que calcula el dígito verificador de un RUT. El sistema recibe el número base ingresado por el usuario (formato 00.000.000) y aplica el algoritmo de Módulo 11 para retornar el dígito correspondiente.
